@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-300x300.png" group-title="Entertainment" , Sоnу SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1767388982~acl=%2f*~id=d0601473-41da-4a66-90d8-926192e3163c~data=hdntl~hmac=4a97c425e4abea37ceacd0e6a5a5b0f078b9442315de0eb624e21854c632dd54/master_3500.m3u8
+
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Movies" , Sоnу MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1767388982~acl=%2f*~id=d0601473-41da-4a66-90d8-926192e3163c~data=hdntl~hmac=4a97c425e4abea37ceacd0e6a5a5b0f078b9442315de0eb624e21854c632dd54/master_3500.m3u8
+
